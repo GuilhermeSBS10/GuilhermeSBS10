@@ -47,7 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSBS10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSBS10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="115" 
+width="290" alt="stats graph"  />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeSBS10&line_height=150&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=888888&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=888888&count_private=true" alt="Most Used Languages">
 
 </div>
