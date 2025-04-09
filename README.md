@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">Areas of Interest for Study:</h6>
+<h4 align="left">Areas of Interest for Study:</h4>
 
 ###
 
