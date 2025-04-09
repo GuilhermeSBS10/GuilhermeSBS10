@@ -64,6 +64,6 @@
 
 ###
 
-<p align="left">🇪🇸 Espanhou (Beginner)</p>
+<p align="left">🇪🇸 Espanhol (Beginner)</p>
 
 ###
