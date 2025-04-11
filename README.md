@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">Areas of Interest for Study:</h4>
+<h6 align="left">Areas of Interest for Study:</h6>
 
 ###
 
@@ -42,15 +42,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/2GU.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSBS10&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="144" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSBS10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=highcontrast&hide_border=false&order=2" height="144" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSBS10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="115" 
-width="290" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeSBS10&line_height=150&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=888888&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=888888&count_private=true" alt="Most Used Languages">
-
+  <img height="150" src="https://i.gifer.com/72nt.gif"  />
 </div>
 
 ###
@@ -67,6 +67,6 @@ width="290" alt="stats graph"  />
 
 ###
 
-<p align="left">🇪🇸 Espanhol (Beginner)</p>
+<p align="left">🇪🇸 Espanhou (Beginner)</p>
 
 ###
