@@ -83,4 +83,10 @@ Meu nome é Guilherme Santos, tenho 21 anos e sou natural de João Pessoa, Para�
   />
 
 </p>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GuilhermeSBS10/GuilhermeSBS10/output/snake.svg" alt="Snake animation" />
+
+###
