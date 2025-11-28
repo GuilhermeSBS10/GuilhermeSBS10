@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Santos
+# 👨🏽‍💻 Guilherme Santos
 
 **`Desenvolvedor Frontend`**
 
