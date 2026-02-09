@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Meu nome é Guilherme Santos, tenho 21 anos e sou natural de João Pessoa, Paraíba. Concluí o ensino médio no Colégio Motiva e atualmente curso Ciências da Computação na Uniesp. Atuo como desenvolvedor frontend e estou sempre buscando evoluir na área. Meu objetivo é me tornar um desenvolvedor full stack, unindo conhecimento de front e back-end para criar soluções completas e eficientes.
+Meu nome é Guilherme Santos, tenho 22 anos e sou natural de João Pessoa, Paraíba. Concluí o ensino médio no Colégio Motiva e atualmente curso Ciências da Computação na Uniesp. Atuo como desenvolvedor frontend e estou sempre buscando evoluir na área. Meu objetivo é me tornar um desenvolvedor full stack, unindo conhecimento de front e back-end para criar soluções completas e eficientes.
 
 ###
 
